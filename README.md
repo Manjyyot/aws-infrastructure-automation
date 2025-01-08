@@ -40,8 +40,10 @@ Use any individual module as needed without deploying the entire infrastructure,
 
 ### 1. Clone the repository
 
-git clone [repository-url([url](https://github.com/Manjyyot/aws-infrastructure-automation))]
+git clone [repository-url(https://github.com/Manjyyot/aws-infrastructure-automation)]
+
 cd aws-infrastructure-automation
+
 ## Deployment Instructions
 
 ### 2. Set up your AWS credentials
