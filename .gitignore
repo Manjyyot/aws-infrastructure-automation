@@ -1,8 +1,21 @@
+<<<<<<< HEAD
 # Python bytecode files
+=======
+# Ignore sensitive files
+*.pem
+*.txt
+*.zip
+
+# Ignore Flask project folder
+flask_project/
+
+# Ignore Python cache files
+>>>>>>> origin/master
 __pycache__/
 *.pyc
 *.pyo
 
+<<<<<<< HEAD
 # Environment variables and credentials
 .env
 
@@ -12,3 +25,7 @@ __pycache__/
 # IDE and editor folders
 .vscode/
 .idea/
+=======
+# Ignore environment files
+.env
+>>>>>>> origin/master
